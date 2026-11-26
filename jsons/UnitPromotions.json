@@ -1846,8 +1846,13 @@
 	//Khassiya Dynasty
 	{
 		"name": "Relentless",		
-		"uniques": ["Comment [Turns into [Dismounted Fahrazan] upon defeated and may gain its Mount back in [City center] for 400 [Gold]]",
-					"Free [Dismounted Fahrazan] appears <upon being defeated> <for [All] units> <hidden from users>",
+		"uniques": ["Comment [For every 3 Mounted [Relenteless] units defeated, turns into a [Dismounted Fahrazan] upon defeated and may gain its Mount back in [City center] for 400 [Gold]]",
+					
+					"Instantly gain [-3] [Counter Something] <when above [2] [Counter Something]> <hidden from users>",
+					"Instantly gain [1] [Counter Something] <upon being defeated> <hidden from users>",
+		
+					"Free [Dismounted Fahrazan] appears <upon being defeated> <for [Mounted] units> <when above [2] [Counter Something]> <hidden from users>",
+					
 					"Can transform to [Fahrazan] <in [City center] tiles> <for [non-[Mounted]] units> <before discovering [Metallurgy]> <for [2] movement> <costs [+400 Gold] stats> <hidden from users>",
 					"Can transform to [Cavalry] <in [City center] tiles> <for [non-[Mounted]] units> <after discovering [Military Science]> <before discovering [Combustion]> <for [2] movement> <costs [+400 Gold] stats> <hidden from users>",
 		]
